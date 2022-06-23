@@ -1,1 +1,2 @@
-C-x C-f
+#!/bin/bash
+su
