@@ -1,1 +1,1 @@
-Task 0 where am I ?
+script that prints the absolute pathname of the current working directory
